@@ -1,0 +1,12 @@
+{
+      "logged_in_as": "{{username}}としてログイン中",
+      "logout": "ログアウト",
+      "enter_document_id": "ドキュメントIDを入力",
+      "join_document": "ドキュメントに参加",
+      "enter_message": "メッセージを入力",
+      "send": "送信",
+      "username": "ユーザー名",
+      "password": "パスワード",
+      "login": "ログイン",
+      "login_with_test_account": "テストアカウントでログイン"
+    }

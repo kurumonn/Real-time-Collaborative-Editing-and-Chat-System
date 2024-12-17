@@ -1,0 +1,12 @@
+{
+      "logged_in_as": "Logged in as {{username}}",
+      "logout": "Logout",
+      "enter_document_id": "Enter Document ID",
+      "join_document": "Join Document",
+      "enter_message": "Enter message",
+      "send": "Send",
+      "username": "Username",
+      "password": "Password",
+      "login": "Login",
+      "login_with_test_account": "Login with Test Account"
+    }
